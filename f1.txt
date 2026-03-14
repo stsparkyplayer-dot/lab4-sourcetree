@@ -3,3 +3,4 @@ modificare noua
 modificare feature2
 squash test 1
 squash test 2
+rebase test 1
